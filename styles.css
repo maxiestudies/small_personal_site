@@ -4,3 +4,8 @@ body {
 p {
   width: 50%;
 }
+
+a {
+  color: DarkSlateGrey;
+  text-decoration: underline;
+}
